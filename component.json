@@ -1,0 +1,14 @@
+{
+  "name": "bitcells",
+  "repo": "jwerle/bitcells",
+  "description": "Bitwise operations on mutable cells in a stack",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
