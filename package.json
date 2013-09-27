@@ -1,0 +1,25 @@
+{
+  "name": "bitcells",
+  "version": "0.0.1",
+  "description": "Bitwise operations on mutable cells in a stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jwerle/bitcells.git"
+  },
+  "keywords": [
+    "bit",
+    "bitwise",
+    "bitfield",
+    "bitcell",
+    "cells"
+  ],
+  "author": "Joseph Werle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwerle/bitcells/issues"
+  }
+}
