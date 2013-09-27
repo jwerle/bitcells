@@ -15,6 +15,9 @@ var a = Cell(4)
 $1.push(a).push(b)
 $2.push(c).push(d)
 
+assert('4' === String(a));
+assert('12' === String($1));
+
 assert(12 == $1);
 assert(48 == $2);
 
@@ -69,3 +72,4 @@ y.v = x;
 
 assert(50 == s);
 assert(25 == t);
+
