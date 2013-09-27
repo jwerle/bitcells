@@ -43,7 +43,7 @@ assert(24 == $)
 
 ## why?
 
-I don't know, just for fun.
+https://www.kernel.org/pub/linux/kernel/people/geoff/cell/ps3-linux-docs/CellProgrammingTutorial/BasicsOfSIMDProgramming.html
 
 ## license
 
